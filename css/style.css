@@ -1,0 +1,11 @@
+body {
+    /* height: 2000px; */
+}
+#productdescription {
+    resize: none;
+
+}
+
+span{
+    background-color: rgb(255, 251,0);
+}
